@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("Hello, World!");
+    printf("Yunarida Citantyaiswara Ichwan, C");
     return 0;
 }
